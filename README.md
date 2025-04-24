@@ -9,3 +9,5 @@ This is the first custom node I wrote. It was created to solve the problem of fr
 Installation method:
 
 Download the 'Batch-Tagging-Node-C' file and place it in ComfyUI\custom_nodes
+
+![屏幕截图 2025-04-24 180516](https://github.com/user-attachments/assets/1b4d03fb-627d-41cd-a1c2-732b8cf35d3b)
